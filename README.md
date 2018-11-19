@@ -1,4 +1,4 @@
-# convex-neural-etwork
+# convex-neural-network
 Matlab toolbox to design convex neural networks
 
 This matlab toolbox provides a simple function that, interfacing
