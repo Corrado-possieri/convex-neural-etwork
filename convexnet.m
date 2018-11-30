@@ -1,10 +1,12 @@
 function outnet = convexnet(u,y,hiddenSize,trainFcn)
 %CONVEXNET design of a convex artificial neural network
 %
-% CONVEXNET(u,y,hiddenSize,trainFcn) takes a MxN input vector,
-% and N output vector, the number of nodes in the hidden layer,
-% and a backpropagation training function, and returns
-% a feed-forward convex neural network.
+% CONVEXNET(u,y,hiddenSize,trainFcn)  takes 
+% u: MxN input vector,
+% y: N output vector, 
+% hiddenSize: number of nodes in the hidden layer,
+% trainFcn: training function, 
+% and returns a feed-forward convex neural network.
 %
 % Defaults are used if CONVEXNET is called with fewer argument:
 % hiddenSize = 10
