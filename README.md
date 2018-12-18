@@ -1,7 +1,7 @@
 # convex-neural-network
 Matlab toolbox to design and train convex and log-log-convex neural networks
 
-This Matlab toolbox provides some toolst, interfacing
+This Matlab toolbox provides some tools that, interfacing
 with the Matlab Neural Network Toolbox, allows to design and train
 log-sum-exp and posynomial feedforward neural networks.
 
